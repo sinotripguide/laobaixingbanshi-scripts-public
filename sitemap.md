@@ -1,15 +1,12 @@
-# 老百姓办事指南 - 网站链接地图
+> 更新时间：2026-11-04（新增 40 条）
 
+# 老百姓办事指南 - 网站链接地图
 > 自动同步时间：2026-11-02 01:03:30
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
 > 共 2568 个链接（文章2392篇 + 页面15个 + 分类161个）
-
 ## 网站首页
-
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-
 ## 所有文章（2337篇）
-
 - [衣柜总是乱成一团？抽屉式收纳箱叠了五层，找衣服再也不用翻箱倒柜](https://laobaixingbanshi.com/wanle/%e8%a1%a3%e6%9f%9c%e6%80%bb%e6%98%af%e4%b9%b1%e6%88%90%e4%b8%80%e5%9b%a2%ef%bc%9f%e6%8a%bd%e5%b1%89%e5%bc%8f%e6%94%b6%e7%ba%b3%e7%ae%b1%e5%8f%a0%e4%ba%86%e4%ba%94%e5%b1%82%ef%bc%8c%e6%89%be%e8%a1%a3.html)
 - [25+女生秋冬补水面膜怎么选？自然堂这盒敷了两周，上妆不卡粉了](https://laobaixingbanshi.com/wanle/25%e5%a5%b3%e7%94%9f%e7%a7%8b%e5%86%ac%e8%a1%a5%e6%b0%b4%e9%9d%a2%e8%86%9c%e6%80%8e%e4%b9%88%e9%80%89%ef%bc%9f%e8%87%aa%e7%84%b6%e5%a0%82%e8%bf%99%e7%9b%92%e6%95%b7%e4%ba%86%e4%b8%a4%e5%91%a8.html)
 - [保暖内衣越厚越暖和？德绒这套穿了三天，脱毛衣再也不噼里啪啦](https://laobaixingbanshi.com/wanle/%e4%bf%9d%e6%9a%96%e5%86%85%e8%a1%a3%e8%b6%8a%e5%8e%9a%e8%b6%8a%e6%9a%96%e5%92%8c%ef%bc%9f%e5%be%b7%e7%bb%92%e8%bf%99%e5%a5%97%e7%a9%bf%e4%ba%86%e4%b8%89%e5%a4%a9%ef%bc%8c%e8%84%b1%e6%af%9b%e8%a1%a3.html)
@@ -2292,9 +2289,7 @@
 - [教师资格证考试科目与备考指南（笔试+面试）](https://laobaixingbanshi.com/wenku/examdata/%e6%95%99%e5%b8%88%e8%b5%84%e6%a0%bc%e8%af%81%e8%80%83%e8%af%95%e7%a7%91%e7%9b%ae%e4%b8%8e%e5%a4%87%e8%80%83%e6%8c%87%e5%8d%97%ef%bc%88%e7%ac%94%e8%af%95%e9%9d%a2%e8%af%95%ef%bc%89.html)
 - [项目总结怎么写？项目复盘报告模板](https://laobaixingbanshi.com/wenku/gelei-zongjie/%e9%a1%b9%e7%9b%ae%e6%80%bb%e7%bb%93%e6%80%8e%e4%b9%88%e5%86%99%ef%bc%9f%e9%a1%b9%e7%9b%ae%e5%a4%8d%e7%9b%98%e6%8a%a5%e5%91%8a%e6%a8%a1%e6%9d%bf.html)
 - [学期总结怎么写？学生学期总结范文模板](https://laobaixingbanshi.com/wenku/gelei-zongjie/%e5%ad%a6%e6%9c%9f%e6%80%bb%e7%bb%93%e6%80%8e%e4%b9%88%e5%86%99%ef%bc%9f%e5%ad%a6%e7%94%9f%e5%ad%a6%e6%9c%9f%e6%80%bb%e7%bb%93%e8%8c%83%e6%96%87%e6%a8%a1%e6%9d%bf.html)
-
 ## 所有页面（15个）
-
 - [🍜本地生活](https://laobaixingbanshi.com/local-life)
 - [🛒购物优惠](https://laobaixingbanshi.com/shopping-deals)
 - [LBBS English - China Travel &amp; Living Guide](https://laobaixingbanshi.com/english-home)
@@ -2310,9 +2305,7 @@
 - [联系我们](https://laobaixingbanshi.com/contact)
 - [关于我们](https://laobaixingbanshi.com/about)
 - [首页](https://laobaixingbanshi.com/)
-
 ## 所有分类（161个）
-
 - [IT互联网证书](https://laobaixingbanshi.com/category/kaozheng/it%e4%ba%92%e8%81%94%e7%bd%91%e8%af%81%e4%b9%a6) (16篇)
 - [POS机办理](https://laobaixingbanshi.com/category/shoukuan/pos) (17篇)
 - [一年级试卷](https://laobaixingbanshi.com/category/wenku/xiaoxue/grade1) (13篇)
@@ -2474,7 +2467,6 @@
 - [🏖️ 旅游酒店](https://laobaixingbanshi.com/category/wanle/%f0%9f%8f%96%ef%b8%8f-%e6%97%85%e6%b8%b8%e9%85%92%e5%ba%97) (226篇)
 - [📍 按地区找实惠](https://laobaixingbanshi.com/category/wanle/%f0%9f%8f%96%ef%b8%8f-%e6%97%85%e6%b8%b8%e9%85%92%e5%ba%97/diqu) (177篇)
 - [🛒 购物优惠](https://laobaixingbanshi.com/category/wanle/%f0%9f%9b%92-%e8%b4%ad%e7%89%a9%e4%bc%98%e6%83%a0) (106篇)
-
 ---
 *本文件由API自动同步，每日发布新文章后统一更新*
 - [到店美食优惠券哪里领？麦当劳随心配4+2【仅周五-周美团团购45.90元](https://laobaixingbanshi.com/wanle/%e5%88%b0%e5%ba%97%e7%be%8e%e9%a3%9f%e4%bc%98%e6%83%a0%e5%88%b8%e5%93%aa%e9%87%8c%e9%a2%86%ef%bc%9f%e9%ba%a6%e5%bd%93%e5%8a%b3%e9%9a%8f%e5%bf%83%e9%85%8d42%e3%80%90%e4%bb%85%e5%91%a8%e4%ba%94.html)
@@ -2637,9 +2629,7 @@
 - [米家小米保温杯口袋版350ml实测：316L内胆+自带茶漏，通勤喝水方便吗？](https://laobaixingbanshi.com/wanle/%e7%b1%b3%e5%ae%b6%e5%b0%8f%e7%b1%b3%e4%bf%9d%e6%b8%a9%e6%9d%af%e5%8f%a3%e8%a2%8b%e7%89%88350ml%e5%ae%9e%e6%b5%8b%ef%bc%9a316l%e5%86%85%e8%83%86%e8%87%aa%e5%b8%a6%e8%8c%b6%e6%bc%8f%ef%bc%8c%e9%80%9a.html)
 - [OPPO Enco Air4真无线蓝牙耳机实测：主动降噪+入耳式，通勤追剧够用吗？](https://laobaixingbanshi.com/wanle/oppo-enco-air4%e7%9c%9f%e6%97%a0%e7%ba%bf%e8%93%9d%e7%89%99%e8%80%b3%e6%9c%ba%e5%ae%9e%e6%b5%8b%ef%bc%9a%e4%b8%bb%e5%8a%a8%e9%99%8d%e5%99%aa%e5%85%a5%e8%80%b3%e5%bc%8f%ef%bc%8c%e9%80%9a%e5%8b%a4.html)
 - [山姆Member's Mark每日坚果900g实测：30小包独立装，办公室囤货值得买吗？](https://laobaixingbanshi.com/wanle/%e5%b1%b1%e5%a7%86members-mark%e6%af%8f%e6%97%a5%e5%9d%9a%e6%9e%9c900g%e5%ae%9e%e6%b5%8b%ef%bc%9a30%e5%b0%8f%e5%8c%85%e7%8b%ac%e7%ab%8b%e8%a3%85%ef%bc%8c%e5%8a%9e%e5%85%ac%e5%ae%a4%e5%9b%a4%e8%b4%a7.html)
-
 ## 2026-10-28 新增文章
-
 - [食族人酸辣粉6桶装实测：红薯粉劲道酸辣过瘾，加班夜宵解馋方便吗？](https://laobaixingbanshi.com/wanle/%e9%a3%9f%e6%97%8f%e4%ba%ba%e9%85%b8%e8%be%a3%e7%b2%896%e6%a1%b6%e8%a3%85%e5%ae%9e%e6%b5%8b%ef%bc%9a%e7%ba%a2%e8%96%af%e7%b2%89%e5%8a%b2%e9%81%93%e9%85%b8%e8%be%a3%e8%bf%87%e7%98%be%ef%bc%8c%e5%8a%a0.html)（2026-10-28）
 - [五月花压圈垃圾桶11L家用实测：加厚不透明大号，厨房客厅办公室都能放吗？](https://laobaixingbanshi.com/wanle/%e4%ba%94%e6%9c%88%e8%8a%b1%e5%8e%8b%e5%9c%88%e5%9e%83%e5%9c%be%e6%a1%b611l%e5%ae%b6%e7%94%a8%e5%ae%9e%e6%b5%8b%ef%bc%9a%e5%8a%a0%e5%8e%9a%e4%b8%8d%e9%80%8f%e6%98%8e%e5%a4%a7%e5%8f%b7%ef%bc%8c.html)（2026-10-28）
 - [完达山纯牛奶200ml整箱24盒开箱：3.2g乳蛋白，一家三口早餐奶囤一箱够喝多久？](https://laobaixingbanshi.com/wanle/%e5%ae%8c%e8%be%be%e5%b1%b1%e7%ba%af%e7%89%9b%e5%a5%b6200ml%e6%95%b4%e7%ae%b124%e7%9b%92%e5%bc%80%e7%ae%b1%ef%bc%9a3-2g%e4%b9%b3%e8%9b%8b%e7%99%bd%ef%bc%8c%e4%b8%80%e5%ae%b6%e4%b8%89%e5%8f%a3%e6%97%a9.html)（2026-10-28）
@@ -2695,9 +2685,7 @@
 - [普通护照办理与换发全流程（首次申请/到期换发/异地通办，材料费用时限说清）](https://laobaixingbanshi.com/wenku/%e6%99%ae%e9%80%9a%e6%8a%a4%e7%85%a7%e5%8a%9e%e7%90%86%e4%b8%8e%e6%8d%a2%e5%8f%91%e5%85%a8%e6%b5%81%e7%a8%8b%ef%bc%88%e9%a6%96%e6%ac%a1%e7%94%b3%e8%af%b7-%e5%88%b0%e6%9c%9f%e6%8d%a2%e5%8f%91-%e5%bc%82.html)（2026-10-28）
 - [居民身份证到期换领与丢失补办全流程（户籍地+异地通办，材料费用一次说清）](https://laobaixingbanshi.com/wenku/%e5%b1%85%e6%b0%91%e8%ba%ab%e4%bb%bd%e8%af%81%e5%88%b0%e6%9c%9f%e6%8d%a2%e9%a2%86%e4%b8%8e%e4%b8%a2%e5%a4%b1%e8%a1%a5%e5%8a%9e%e5%85%a8%e6%b5%81%e7%a8%8b%ef%bc%88%e6%88%b7%e7%b1%8d%e5%9c%b0%e5%bc%82.html)（2026-10-28）
 - [无犯罪记录证明怎么开？线上申请+线下办理流程与材料清单（2026版）](https://laobaixingbanshi.com/wenku/%e6%97%a0%e7%8a%af%e7%bd%aa%e8%ae%b0%e5%bd%95%e8%af%81%e6%98%8e%e6%80%8e%e4%b9%88%e5%bc%80%ef%bc%9f%e7%ba%bf%e4%b8%8a%e7%94%b3%e8%af%b7%e7%ba%bf%e4%b8%8b%e5%8a%9e%e7%90%86%e6%b5%81%e7%a8%8b%e4%b8%8e.html)（2026-10-28）
-
 ## 2026-10-29 新增文章
-
 - [通用技术集团2027届校园招聘正式启动（大型央企，600人规模多专业开放）](https://laobaixingbanshi.com/zhaokao/%e9%80%9a%e7%94%a8%e6%8a%80%e6%9c%af%e9%9b%86%e5%9b%a22027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e6%ad%a3%e5%bc%8f%e5%90%af%e5%8a%a8%ef%bc%88%e5%a4%a7%e5%9e%8b%e5%a4%ae%e4%bc%81%ef%bc%8c600.html)（2026-10-29）
 - [中国大唐集团2027届校园招聘（第一批网申10月31日截止，能源电力央企）](https://laobaixingbanshi.com/zhaokao/%e4%b8%ad%e5%9b%bd%e5%a4%a7%e5%94%90%e9%9b%86%e5%9b%a22027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%ef%bc%88%e7%ac%ac%e4%b8%80%e6%89%b9%e7%bd%91%e7%94%b310%e6%9c%8831%e6%97%a5%e6%88%aa%e6%ad%a2.html)（2026-10-29）
 - [中车长春轨道客车2027届校园招聘（轨道装备龙头，本硕博均可报）](https://laobaixingbanshi.com/zhaokao/%e4%b8%ad%e8%bd%a6%e9%95%bf%e6%98%a5%e8%bd%a8%e9%81%93%e5%ae%a2%e8%bd%a62027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%ef%bc%88%e8%bd%a8%e9%81%93%e8%a3%85%e5%a4%87%e9%be%99%e5%a4%b4%ef%bc%8c.html)（2026-10-29）
@@ -2754,9 +2742,7 @@
 - [海友多少钱一晚？美团团购优惠攻略，498.00元住622.00元房](https://laobaixingbanshi.com/wanle/%e6%b5%b7%e5%8f%8b%e5%a4%9a%e5%b0%91%e9%92%b1%e4%b8%80%e6%99%9a%ef%bc%9f%e7%be%8e%e5%9b%a2%e5%9b%a2%e8%b4%ad%e4%bc%98%e6%83%a0%e6%94%bb%e7%95%a5%ef%bc%8c498-00%e5%85%83%e4%bd%8f622-00%e5%85%83.html)（2026-10-29）
 - [双人北京欢乐谷全门票多少钱？美团优惠券领取攻略，1033.00元起](https://laobaixingbanshi.com/wanle/%e5%8f%8c%e4%ba%ba%e5%8c%97%e4%ba%ac%e6%ac%a2%e4%b9%90%e8%b0%b7%e5%85%a8%e9%97%a8%e7%a5%a8%e5%a4%9a%e5%b0%91%e9%92%b1%ef%bc%9f%e7%be%8e%e5%9b%a2%e4%bc%98%e6%83%a0%e5%88%b8%e9%a2%86%e5%8f%96%e6%94%bb.html)（2026-10-29）
 - [烟草专卖零售许可证怎么办理？开个小卖铺卖烟需要哪些条件和材料？](https://laobaixingbanshi.com/chuangye/%e7%83%9f%e8%8d%89%e4%b8%93%e5%8d%96%e9%9b%b6%e5%94%ae%e8%ae%b8%e5%8f%af%e8%af%81%e6%80%8e%e4%b9%88%e5%8a%9e%e7%90%86%ef%bc%9f%e5%bc%80%e4%b8%aa%e5%b0%8f%e5%8d%96%e9%93%ba%e5%8d%96%e7%83%9f%e9%9c%80.html)（2026-10-29）
-
 ## 2026-10-30 新增文章
-
 - [重庆市涪陵区事业单位2026年第四季度考核招聘9名（10月31日9:00报名截止）](https://laobaixingbanshi.com/zhaokao/%e9%87%8d%e5%ba%86%e5%b8%82%e6%b6%aa%e9%99%b5%e5%8c%ba%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d2026%e5%b9%b4%e7%ac%ac%e5%9b%9b%e5%ad%a3%e5%ba%a6%e8%80%83%e6%a0%b8%e6%8b%9b%e8%81%989%e5%90%8d%ef%bc%8810.html)
 - [重庆三峡科技大学及所属事业单位2026年考核招聘高层次人才90名（10月31日截止报名）](https://laobaixingbanshi.com/zhaokao/%e9%87%8d%e5%ba%86%e4%b8%89%e5%b3%a1%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e5%8f%8a%e6%89%80%e5%b1%9e%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d2026%e5%b9%b4%e8%80%83%e6%a0%b8%e6%8b%9b%e8%81%98%e9%ab%98.html)
 - [南通市通州区人民医院2026下半年公开招聘高层次人才9名（研究生可报，11月2日报名截止）](https://laobaixingbanshi.com/zhaokao/%e5%8d%97%e9%80%9a%e5%b8%82%e9%80%9a%e5%b7%9e%e5%8c%ba%e4%ba%ba%e6%b0%91%e5%8c%bb%e9%99%a22026%e4%b8%8b%e5%8d%8a%e5%b9%b4%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba.html)
@@ -2811,9 +2797,7 @@
 - [护士执业资格考试《专业实务》100题（含答案与解析，可打印刷题）Word下载](https://laobaixingbanshi.com/kaozheng/%e6%8a%a4%e5%a3%ab%e6%89%a7%e4%b8%9a%e8%b5%84%e6%a0%bc%e8%80%83%e8%af%95%e3%80%8a%e4%b8%93%e4%b8%9a%e5%ae%9e%e5%8a%a1%e3%80%8b100%e9%a2%98%ef%bc%88%e5%90%ab%e7%ad%94%e6%a1%88%e4%b8%8e%e8%a7%a3.html)
 - [中级注册安全工程师《安全生产法律法规》100题（含答案与解析，2027备考刷题）Word下载](https://laobaixingbanshi.com/kaozheng/%e4%b8%ad%e7%ba%a7%e6%b3%a8%e5%86%8c%e5%ae%89%e5%85%a8%e5%b7%a5%e7%a8%8b%e5%b8%88%e3%80%8a%e5%ae%89%e5%85%a8%e7%94%9f%e4%ba%a7%e6%b3%95%e5%be%8b%e6%b3%95%e8%a7%84%e3%80%8b100%e9%a2%98%ef%bc%88.html)
 - [基金从业人员资格《证券投资基金基础知识》100题（含答案与解析）Word下载](https://laobaixingbanshi.com/kaozheng/%e5%9f%ba%e9%87%91%e4%bb%8e%e4%b8%9a%e4%ba%ba%e5%91%98%e8%b5%84%e6%a0%bc%e3%80%8a%e8%af%81%e5%88%b8%e6%8a%95%e8%b5%84%e5%9f%ba%e9%87%91%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86%e3%80%8b100%e9%a2%98.html)
-
 ## 2026-10-31 新增文章
-
 - [山东日照五莲县卫健局所属事业单位招聘7人（今天9:00开始报名，临床影像为主，11月9日截止）](https://laobaixingbanshi.com/zhaokao/%e5%b1%b1%e4%b8%9c%e6%97%a5%e7%85%a7%e4%ba%94%e8%8e%b2%e5%8e%bf%e5%8d%ab%e5%81%a5%e5%b1%80%e6%89%80%e5%b1%9e%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e6%8b%9b%e8%81%987%e4%ba%ba%ef%bc%88%e4%bb%8a%e5%a4%a99.html)
 - [湖北科技学院2026年第二批人才引进5人（咸宁89年老校，医学是看家本事，报名至12月31日）](https://laobaixingbanshi.com/zhaokao/%e6%b9%96%e5%8c%97%e7%a7%91%e6%8a%80%e5%ad%a6%e9%99%a22026%e5%b9%b4%e7%ac%ac%e4%ba%8c%e6%89%b9%e4%ba%ba%e6%89%8d%e5%bc%95%e8%bf%9b5%e4%ba%ba%ef%bc%88%e5%92%b8%e5%ae%8189%e5%b9%b4%e8%80%81%e6%a0%a1.html)
 - [广西脑科医院2026年度自主招聘实名制工作人员49人（柳州精神卫生专科，11月4日截止报名）](https://laobaixingbanshi.com/zhaokao/%e5%b9%bf%e8%a5%bf%e8%84%91%e7%a7%91%e5%8c%bb%e9%99%a22026%e5%b9%b4%e5%ba%a6%e8%87%aa%e4%b8%bb%e6%8b%9b%e8%81%98%e5%ae%9e%e5%90%8d%e5%88%b6%e5%b7%a5%e4%bd%9c%e4%ba%ba%e5%91%9849%e4%ba%ba%ef%bc%88.html)
@@ -2866,7 +2850,6 @@
 - [赡养老人协议书范本（多子女家庭通用，含轮养/赡养费/医药费分担条款）Word下载](https://laobaixingbanshi.com/falv/shanyang-xieyi.html)
 - [初级会计职称《初级会计实务》100题（含答案与解析，可打印刷题）Word下载](https://laobaixingbanshi.com/kaozheng/chuji-kuaiji-shiwu-100ti.html)
 - [一级建造师《建设工程经济》100题（含答案与解析，2027备考刷题）Word下载](https://laobaixingbanshi.com/kaozheng/yijian-jingji-100ti.html)
-
 - [沪上阿姨鲜果茶优惠券怎么领？杨枝甘露大杯（TG）美团团购14.90元，比门店省7.1元](https://laobaixingbanshi.com/wanle/%e6%b2%aa%e4%b8%8a%e9%98%bf%e5%a7%a8%e9%b2%9c%e6%9e%9c%e8%8c%b6%e4%bc%98%e6%83%a0%e5%88%b8%e6%80%8e%e4%b9%88%e9%a2%86%ef%bc%9f%e6%9d%a8%e6%9e%9d%e7%94%98%e9%9c%b2%e5%a4%a7%e6%9d%af%ef%bc%88tg%ef%bc%89.html)
 - [猪肉大葱饼外卖优惠力度最大的套餐是哪个？13.90元亲测最划算](https://laobaixingbanshi.com/wanle/%e7%8c%aa%e8%82%89%e5%a4%a7%e8%91%b1%e9%a5%bc%e3%80%90%e8%b5%a04%e5%a4%96%e5%8d%96%e4%bc%98%e6%83%a0%e5%8a%9b%e5%ba%a6%e6%9c%80%e5%a4%a7%e7%9a%84%e5%a5%97%e9%a4%90%e6%98%af%e5%93%aa%e4%b8%aa%ef%bc%9f.html)
 - [环球大酒店优惠门票怎么买最便宜？美团团购2299元，比窗口便宜46%](https://laobaixingbanshi.com/wanle/%e7%8e%af%e7%90%83%e5%a4%a7%e9%85%92%e5%ba%97%e4%bc%98%e6%83%a0%e9%97%a8%e7%a5%a8%e5%93%aa%e9%87%8c%e4%b9%b0%ef%bc%9f%e7%be%8e%e5%9b%a2%e5%9b%a2%e8%b4%ad2299-00%e5%85%83%ef%bc%8c%e6%af%94%e7%aa%97.html)
@@ -2976,3 +2959,43 @@
 - [小规模纳税人增值税怎么申报？2026最新流程：季报、零申报、免税额度一次说清楚](https://laobaixingbanshi.com/chuangye/%e5%b0%8f%e8%a7%84%e6%a8%a1%e7%ba%b3%e7%a8%8e%e4%ba%ba%e5%a2%9e%e5%80%bc%e7%a8%8e%e6%80%8e%e4%b9%88%e7%94%b3%e6%8a%a5%ef%bc%9f2026%e6%9c%80%e6%96%b0%e6%b5%81%e7%a8%8b%ef%bc%9a%e5%ad%a3%e6%8a%a5.html)
 - [医保个人账户家庭共济怎么绑定？2026最新流程：配偶父母子女共用，买药门诊一次讲清](https://laobaixingbanshi.com/shebao/%e5%8c%bb%e4%bf%9d%e4%b8%aa%e4%ba%ba%e8%b4%a6%e6%88%b7%e5%ae%b6%e5%ba%ad%e5%85%b1%e6%b5%8e%e6%80%8e%e4%b9%88%e7%bb%91%e5%ae%9a%ef%bc%9f2026%e6%9c%80%e6%96%b0%e6%b5%81%e7%a8%8b%ef%bc%9a%e9%85%8d.html)
 - [2026年办收款码POS机怕售后跑路？费率被调押金不退怎么维权，正规本地办理指南](https://laobaixingbanshi.com/shoukuan/2026%e5%b9%b4%e5%8a%9e%e6%94%b6%e6%ac%be%e7%a0%81pos%e6%9c%ba%e6%80%95%e5%94%ae%e5%90%8e%e8%b7%91%e8%b7%af%ef%bc%9f%e8%b4%b9%e7%8e%87%e8%a2%ab%e8%b0%83%e6%8a%bc%e9%87%91%e4%b8%8d%e9%80%80%e6%80%8e.html)
+- [2026年上海崇明区教育系统公开招聘后勤保障人员108名公告（现场报名至11月10日）](https://laobaixingbanshi.com/zhaokao/2026%e5%b9%b4%e4%b8%8a%e6%b5%b7%e5%b4%87%e6%98%8e%e5%8c%ba%e6%95%99%e8%82%b2%e7%b3%bb%e7%bb%9f%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e5%90%8e%e5%8b%a4%e4%bf%9d%e9%9a%9c%e4%ba%ba%e5%91%98108%e5%90%8d.html)
+- [连山壮族瑶族自治县2026年公开招聘事业单位工作人员29名公告（广东清远，11月5日起报名）](https://laobaixingbanshi.com/zhaokao/%e8%bf%9e%e5%b1%b1%e5%a3%ae%e6%97%8f%e7%91%b6%e6%97%8f%e8%87%aa%e6%b2%bb%e5%8e%bf2026%e5%b9%b4%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e5%b7%a5%e4%bd%9c%e4%ba%ba.html)
+- [山东省气象部门2027年度事业单位公开招聘应届高校毕业生公告（11月6日起报名）](https://laobaixingbanshi.com/zhaokao/%e5%b1%b1%e4%b8%9c%e7%9c%81%e6%b0%94%e8%b1%a1%e9%83%a8%e9%97%a82027%e5%b9%b4%e5%ba%a6%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e5%ba%94%e5%b1%8a%e9%ab%98%e6%a0%a1.html)
+- [北京市文物局局属事业单位面向2027年应届毕业生和社会人员公开招聘14人公告（11月11日截止报名）](https://laobaixingbanshi.com/zhaokao/%e5%8c%97%e4%ba%ac%e5%b8%82%e6%96%87%e7%89%a9%e5%b1%80%e5%b1%80%e5%b1%9e%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e9%9d%a2%e5%90%912027%e5%b9%b4%e5%ba%94%e5%b1%8a%e6%af%95%e4%b8%9a%e7%94%9f%e5%92%8c.html)
+- [2026年江苏省纪委监委直属事业单位公开选聘工作人员13人公告（11月10日报名截止）](https://laobaixingbanshi.com/zhaokao/2026%e5%b9%b4%e6%b1%9f%e8%8b%8f%e7%9c%81%e7%ba%aa%e5%a7%94%e7%9b%91%e5%a7%94%e7%9b%b4%e5%b1%9e%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e5%85%ac%e5%bc%80%e9%80%89%e8%81%98%e5%b7%a5%e4%bd%9c%e4%ba%ba.html)
+- [广东省鹤山市医疗卫生事业单位2026年公开招聘专业技术人员69名公告（11月13日截止）](https://laobaixingbanshi.com/zhaokao/%e5%b9%bf%e4%b8%9c%e7%9c%81%e9%b9%a4%e5%b1%b1%e5%b8%82%e5%8c%bb%e7%96%97%e5%8d%ab%e7%94%9f%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d2026%e5%b9%b4%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e4%b8%93%e4%b8%9a.html)
+- [辽宁轻工职业学院2026年面向社会公开招聘高层次和急需紧缺人才10人（第二批，事业编）](https://laobaixingbanshi.com/zhaokao/%e8%be%bd%e5%ae%81%e8%bd%bb%e5%b7%a5%e8%81%8c%e4%b8%9a%e5%ad%a6%e9%99%a22026%e5%b9%b4%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e9%ab%98%e5%b1%82%e6%ac%a1%e5%92%8c.html)
+- [门头沟区教育系统事业单位2027年第一次公开招聘教师55人公告（北京，11月5日起报名）](https://laobaixingbanshi.com/zhaokao/%e9%97%a8%e5%a4%b4%e6%b2%9f%e5%8c%ba%e6%95%99%e8%82%b2%e7%b3%bb%e7%bb%9f%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d2027%e5%b9%b4%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e6%95%99.html)
+- [济南市教育局所属学校公开招聘2027届部属公费师范毕业生140人公告（山东，11月4日起报名）](https://laobaixingbanshi.com/zhaokao/%e6%b5%8e%e5%8d%97%e5%b8%82%e6%95%99%e8%82%b2%e5%b1%80%e6%89%80%e5%b1%9e%e5%ad%a6%e6%a0%a1%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%982027%e5%b1%8a%e9%83%a8%e5%b1%9e%e5%85%ac%e8%b4%b9%e5%b8%88%e8%8c%83.html)
+- [宁波市海曙区教育局公开招聘2027学年「专曙优师」教育人才50人公告（浙江，11月5日起报名）](https://laobaixingbanshi.com/zhaokao/%e5%ae%81%e6%b3%a2%e5%b8%82%e6%b5%b7%e6%9b%99%e5%8c%ba%e6%95%99%e8%82%b2%e5%b1%80%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%982027%e5%ad%a6%e5%b9%b4%e3%80%8c%e4%b8%93%e6%9b%99%e4%bc%98%e5%b8%88%e3%80%8d.html)
+- [渤海银行2027年校园招聘公告（全国性股份制银行，网申已截止供参考）](https://laobaixingbanshi.com/zhaokao/%e6%b8%a4%e6%b5%b7%e9%93%b6%e8%a1%8c2027%e5%b9%b4%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e5%85%ac%e5%91%8a%ef%bc%88%e5%85%a8%e5%9b%bd%e6%80%a7%e8%82%a1%e4%bb%bd%e5%88%b6%e9%93%b6%e8%a1%8c%ef%bc%8c.html)
+- [广州银行2027校园招聘公告（总部广州，英才岗/科技培养生/营销岗，已截止供参考）](https://laobaixingbanshi.com/zhaokao/%e5%b9%bf%e5%b7%9e%e9%93%b6%e8%a1%8c2027%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e5%85%ac%e5%91%8a%ef%bc%88%e6%80%bb%e9%83%a8%e5%b9%bf%e5%b7%9e%ef%bc%8c%e8%8b%b1%e6%89%8d%e5%b2%97-%e7%a7%91%e6%8a%80.html)
+- [厦门银行2027届校园招聘公告（城商行总行管培/市场营销/柜面岗，招满即止）](https://laobaixingbanshi.com/zhaokao/%e5%8e%a6%e9%97%a8%e9%93%b6%e8%a1%8c2027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e5%85%ac%e5%91%8a%ef%bc%88%e5%9f%8e%e5%95%86%e8%a1%8c%e6%80%bb%e8%a1%8c%e7%ae%a1%e5%9f%b9-%e5%b8%82%e5%9c%ba.html)
+- [国家数据集团2027届秋季校园招聘正式启动（新组建央企，网申至11月30日）](https://laobaixingbanshi.com/zhaokao/%e5%9b%bd%e5%ae%b6%e6%95%b0%e6%8d%ae%e9%9b%86%e5%9b%a22027%e5%b1%8a%e7%a7%8b%e5%ad%a3%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e6%ad%a3%e5%bc%8f%e5%90%af%e5%8a%a8%ef%bc%88%e6%96%b0%e7%bb%84%e5%bb%ba.html)
+- [中国农业发展集团有限公司2027届校园招聘公告（农业央企，网申至11月16日）](https://laobaixingbanshi.com/zhaokao/%e4%b8%ad%e5%9b%bd%e5%86%9c%e4%b8%9a%e5%8f%91%e5%b1%95%e9%9b%86%e5%9b%a2%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b82027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e5%85%ac%e5%91%8a%ef%bc%88%e5%86%9c.html)
+- [中国稀土集团2027届校园招聘公告（205人，稀土行业央企，11月报名中）](https://laobaixingbanshi.com/zhaokao/%e4%b8%ad%e5%9b%bd%e7%a8%80%e5%9c%9f%e9%9b%86%e5%9b%a22027%e5%b1%8a%e6%a0%a1%e5%9b%ad%e6%8b%9b%e8%81%98%e5%85%ac%e5%91%8a%ef%bc%88205%e4%ba%ba%ef%bc%8c%e7%a8%80%e5%9c%9f%e8%a1%8c%e4%b8%9a%e5%a4%ae.html)
+- [天津市2027年度定向招录选调生307名公告（11月9日起报名，45所高校）](https://laobaixingbanshi.com/zhaokao/%e5%a4%a9%e6%b4%a5%e5%b8%822027%e5%b9%b4%e5%ba%a6%e5%ae%9a%e5%90%91%e6%8b%9b%e5%bd%95%e9%80%89%e8%b0%83%e7%94%9f307%e5%90%8d%e5%85%ac%e5%91%8a%ef%bc%8811%e6%9c%889%e6%97%a5%e8%b5%b7%e6%8a%a5%e5%90%8d.html)
+- [入团申请书范本（标准版，含填写说明与常见问题，可直接誊抄）Word下载](https://laobaixingbanshi.com/wenku/%e5%85%a5%e5%9b%a2%e7%94%b3%e8%af%b7%e4%b9%a6%e8%8c%83%e6%9c%ac%ef%bc%88%e6%a0%87%e5%87%86%e7%89%88%ef%bc%8c%e5%90%ab%e5%a1%ab%e5%86%99%e8%af%b4%e6%98%8e%e4%b8%8e%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98.html)
+- [实习报告范文（通用专业标准版，含实习目的、内容、收获与致谢）Word下载](https://laobaixingbanshi.com/wenku/%e5%ae%9e%e4%b9%a0%e6%8a%a5%e5%91%8a%e8%8c%83%e6%96%87%ef%bc%88%e9%80%9a%e7%94%a8%e4%b8%93%e4%b8%9a%e6%a0%87%e5%87%86%e7%89%88%ef%bc%8c%e5%90%ab%e5%ae%9e%e4%b9%a0%e7%9b%ae%e7%9a%84%e3%80%81%e5%86%85.html)
+- [房屋买卖合同范本（二手房标准版，含定金、贷款、过户、违约与防坑条款）Word下载](https://laobaixingbanshi.com/falv/%e6%88%bf%e5%b1%8b%e4%b9%b0%e5%8d%96%e5%90%88%e5%90%8c%e8%8c%83%e6%9c%ac%ef%bc%88%e4%ba%8c%e6%89%8b%e6%88%bf%e6%a0%87%e5%87%86%e7%89%88%ef%bc%8c%e5%90%ab%e5%ae%9a%e9%87%91%e3%80%81%e8%b4%b7%e6%ac%be.html)
+- [离婚协议书范本（民政局登记备案版，含子女抚养、财产分割、债务处理）Word下载](https://laobaixingbanshi.com/falv/%e7%a6%bb%e5%a9%9a%e5%8d%8f%e8%ae%ae%e4%b9%a6%e8%8c%83%e6%9c%ac%ef%bc%88%e6%b0%91%e6%94%bf%e5%b1%80%e7%99%bb%e8%ae%b0%e5%a4%87%e6%a1%88%e7%89%88%ef%bc%8c%e5%90%ab%e5%ad%90%e5%a5%b3%e6%8a%9a%e5%85%bb.html)
+- [普通话水平测试100题（含答案与评分要点，2027备考刷题）Word下载](https://laobaixingbanshi.com/kaozheng/%e6%99%ae%e9%80%9a%e8%af%9d%e6%b0%b4%e5%b9%b3%e6%b5%8b%e8%af%95100%e9%a2%98%ef%bc%88%e5%90%ab%e7%ad%94%e6%a1%88%e4%b8%8e%e8%af%84%e5%88%86%e8%a6%81%e7%82%b9%ef%bc%8c2027%e5%a4%87%e8%80%83%e5%88%b7.html)
+- [社会工作者初级《综合能力》100题（含答案与解析，2027备考刷题）Word下载](https://laobaixingbanshi.com/kaozheng/%e7%a4%be%e4%bc%9a%e5%b7%a5%e4%bd%9c%e8%80%85%e5%88%9d%e7%ba%a7%e3%80%8a%e7%bb%bc%e5%90%88%e8%83%bd%e5%8a%9b%e3%80%8b100%e9%a2%98%ef%bc%88%e5%90%ab%e7%ad%94%e6%a1%88%e4%b8%8e%e8%a7%a3%e6%9e%90.html)
+- [在乌镇西栅住了一晚才懂：灯一亮那条河，比我刷到的视频好看一百倍](https://laobaixingbanshi.com/wanle/%e5%9c%a8%e4%b9%8c%e9%95%87%e8%a5%bf%e6%a0%85%e4%bd%8f%e4%ba%86%e4%b8%80%e6%99%9a%e6%89%8d%e6%87%82%ef%bc%9a%e7%81%af%e4%b8%80%e4%ba%ae%e9%82%a3%e6%9d%a1%e6%b2%b3%ef%bc%8c%e6%af%94%e6%88%91%e5%88%b7.html)
+- [站在天生三桥底下仰头看：那座石头拱桥压在头顶，我脖子都仰酸了](https://laobaixingbanshi.com/wanle/%e7%ab%99%e5%9c%a8%e5%a4%a9%e7%94%9f%e4%b8%89%e6%a1%a5%e5%ba%95%e4%b8%8b%e4%bb%b0%e5%a4%b4%e7%9c%8b%ef%bc%9a%e9%82%a3%e5%ba%a7%e7%9f%b3%e5%a4%b4%e6%8b%b1%e6%a1%a5%e5%8e%8b%e5%9c%a8%e5%a4%b4%e9%a1%b6.html)
+- [十一月就往雪乡跑：屋顶的雪蘑菇厚得像棉花糖，出门睫毛直接结冰](https://laobaixingbanshi.com/wanle/%e5%8d%81%e4%b8%80%e6%9c%88%e5%b0%b1%e5%be%80%e9%9b%aa%e4%b9%a1%e8%b7%91%ef%bc%9a%e5%b1%8b%e9%a1%b6%e7%9a%84%e9%9b%aa%e8%98%91%e8%8f%87%e5%8e%9a%e5%be%97%e5%83%8f%e6%a3%89%e8%8a%b1%e7%b3%96%ef%bc%8c.html)
+- [莫日格勒河拐了十八道弯：站在高处看那条河，我一句话都说不出来](https://laobaixingbanshi.com/wanle/%e8%8e%ab%e6%97%a5%e6%a0%bc%e5%8b%92%e6%b2%b3%e6%8b%90%e4%ba%86%e5%8d%81%e5%85%ab%e9%81%93%e5%bc%af%ef%bc%9a%e7%ab%99%e5%9c%a8%e9%ab%98%e5%a4%84%e7%9c%8b%e9%82%a3%e6%9d%a1%e6%b2%b3%ef%bc%8c%e6%88%91.html)
+- [故宫别光买票自己瞎逛：找个讲解跟着走，太和殿那根柱子终于看出门道](https://laobaixingbanshi.com/wanle/%e6%95%85%e5%ae%ab%e5%88%ab%e5%85%89%e4%b9%b0%e7%a5%a8%e8%87%aa%e5%b7%b1%e7%9e%8e%e9%80%9b%ef%bc%9a%e6%89%be%e4%b8%aa%e8%ae%b2%e8%a7%a3%e8%b7%9f%e7%9d%80%e8%b5%b0%ef%bc%8c%e5%a4%aa%e5%92%8c%e6%ae%bf.html)
+- [在武汉躺了三天：早起一碗热干面，晚上轮渡上过江，自由行真不赶](https://laobaixingbanshi.com/wanle/%e5%9c%a8%e6%ad%a6%e6%b1%89%e8%ba%ba%e4%ba%86%e4%b8%89%e5%a4%a9%ef%bc%9a%e6%97%a9%e8%b5%b7%e4%b8%80%e7%a2%97%e7%83%ad%e5%b9%b2%e9%9d%a2%ef%bc%8c%e6%99%9a%e4%b8%8a%e8%bd%ae%e6%b8%a1%e4%b8%8a%e8%bf%87.html)
+- [住新街口这家酒店推门就是德基：晚上逛完秦淮河，打车十分钟躺回床上](https://laobaixingbanshi.com/wanle/%e4%bd%8f%e6%96%b0%e8%a1%97%e5%8f%a3%e8%bf%99%e5%ae%b6%e9%85%92%e5%ba%97%e6%8e%a8%e9%97%a8%e5%b0%b1%e6%98%af%e5%be%b7%e5%9f%ba%ef%bc%9a%e6%99%9a%e4%b8%8a%e9%80%9b%e5%ae%8c%e7%a7%a6%e6%b7%ae%e6%b2%b3.html)
+- [一年飞十几趟的人说句实话：同一班机票多刷半小时，能省出一顿火锅](https://laobaixingbanshi.com/wanle/%e4%b8%80%e5%b9%b4%e9%a3%9e%e5%8d%81%e5%87%a0%e8%b6%9f%e7%9a%84%e4%ba%ba%e8%af%b4%e5%8f%a5%e5%ae%9e%e8%af%9d%ef%bc%9a%e5%90%8c%e4%b8%80%e7%8f%ad%e6%9c%ba%e7%a5%a8%e5%a4%9a%e5%88%b7%e5%8d%8a%e5%b0%8f.html)
+- [怎么领荞麦面饸饹大碗的优惠券？荞麦面饸饹大碗（肉）免费团购攻略，13.90元吃26.00元套餐](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e8%8d%9e%e9%ba%a6%e9%9d%a2%e9%a5%b8%e9%a5%b9%e5%a4%a7%e7%a2%97%ef%bc%88%e7%9a%84%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e8%8d%9e%e9%ba%a6%e9%9d%a2%e9%a5%b8%e9%a5%b9%e5%a4%a7.html)
+- [怎么领龍歌自助小火锅的优惠券？【11周年】&amp;超值双人套团购攻略，114.80元吃119.80元套餐](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e9%be%8d%e6%ad%8c%e8%87%aa%e5%8a%a9%e5%b0%8f%e7%81%ab%e9%94%85%e7%9a%84%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e3%80%9011%e5%91%a8%e5%b9%b4%e3%80%91%e8%b6%85%e5%80%bc.html)
+- [怎么领双人环球票+源拓的门票优惠券？美团团购1158.00元，随时退](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e5%8f%8c%e4%ba%ba%e7%8e%af%e7%90%83%e7%a5%a8%e6%ba%90%e6%8b%93%e7%9a%84%e9%97%a8%e7%a5%a8%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e7%be%8e%e5%9b%a2%e5%9b%a2%e8%b4%ad1158-00.html)
+- [乌江脆口榨菜芯22g*12袋实测：早上配白粥嘎嘣脆不齁咸，一小袋8毛钱能吃多久？](https://laobaixingbanshi.com/wanle/%e4%b9%8c%e6%b1%9f%e8%84%86%e5%8f%a3%e6%a6%a8%e8%8f%9c%e8%8a%af22g12%e8%a2%8b%e5%ae%9e%e6%b5%8b%ef%bc%9a%e6%97%a9%e4%b8%8a%e9%85%8d%e7%99%bd%e7%b2%a5%e5%98%8e%e5%98%a3%e8%84%86%e4%b8%8d%e9%bd%81.html)
+- [雷达杀虫剂喷雾600ml实测：厨房小飞虫一喷就掉，无香型不呛人，一瓶能喷多久？](https://laobaixingbanshi.com/wanle/%e9%9b%b7%e8%be%be%e6%9d%80%e8%99%ab%e5%89%82%e5%96%b7%e9%9b%be600ml%e5%ae%9e%e6%b5%8b%ef%bc%9a%e5%8e%a8%e6%88%bf%e5%b0%8f%e9%a3%9e%e8%99%ab%e4%b8%80%e5%96%b7%e5%b0%b1%e6%8e%89%ef%bc%8c%e6%97%a0.html)
+- [优洁士吸色片3盒家庭装实测：白T恤深浅衣服一锅洗不串色，一次4毛钱比报废白T值](https://laobaixingbanshi.com/wanle/%e4%bc%98%e6%b4%81%e5%a3%ab%e5%90%b8%e8%89%b2%e7%89%873%e7%9b%92%e5%ae%b6%e5%ba%ad%e8%a3%85%e5%ae%9e%e6%b5%8b%ef%bc%9a%e7%99%bdt%e6%81%a4%e6%b7%b1%e6%b5%85%e8%a1%a3%e6%9c%8d%e4%b8%80%e9%94%85%e6%b4%97.html)
+- [邹有才东北黄糯玉米220g*10支实测：上锅蒸15分钟拉丝黏嘴，一支不到3块比早餐店省一半](https://laobaixingbanshi.com/wanle/%e9%82%b9%e6%9c%89%e6%89%8d%e4%b8%9c%e5%8c%97%e9%bb%84%e7%b3%af%e7%8e%89%e7%b1%b3220g10%e6%94%af%e5%ae%9e%e6%b5%8b%ef%bc%9a%e4%b8%8a%e9%94%85%e8%92%b815%e5%88%86%e9%92%9f%e6%8b%89%e4%b8%9d%e9%bb%8f.html)
+- [个体户定期定额核定怎么办？2026最新流程：月营业额多少以下不用交税，一次说清楚](https://laobaixingbanshi.com/chuangye/%e4%b8%aa%e4%bd%93%e6%88%b7%e5%ae%9a%e6%9c%9f%e5%ae%9a%e9%a2%9d%e6%a0%b8%e5%ae%9a%e6%80%8e%e4%b9%88%e5%8a%9e%ef%bc%9f2026%e6%9c%80%e6%96%b0%e6%b5%81%e7%a8%8b%ef%bc%9a%e6%9c%88%e8%90%a5%e4%b8%9a.html)
+- [养老金领取资格认证怎么刷脸？2026最新流程：异地手机就能办，多久没认证会停发](https://laobaixingbanshi.com/shebao/%e5%85%bb%e8%80%81%e9%87%91%e9%a2%86%e5%8f%96%e8%b5%84%e6%a0%bc%e8%ae%a4%e8%af%81%e6%80%8e%e4%b9%88%e5%88%b7%e8%84%b8%ef%bc%9f2026%e6%9c%80%e6%96%b0%e6%b5%81%e7%a8%8b%ef%bc%9a%e5%bc%82%e5%9c%b0.html)
