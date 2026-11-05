@@ -1,7 +1,7 @@
-> 更新时间：2026-11-05（新增 38 条）
+> 更新时间：2026-11-06（新增 39 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-05 02:00:00
+> 自动同步时间：2026-11-06 00:30:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
 > 共 2568 个链接（文章2392篇 + 页面15个 + 分类161个）
 ## 网站首页
@@ -3037,42 +3037,3 @@
 - [百乐P500金标笔实测：3支29块16，学生党为什么死磕这支笔](https://laobaixingbanshi.com/wanle/%e7%99%be%e4%b9%90p500%e9%87%91%e6%a0%87%e7%ac%94%e5%ae%9e%e6%b5%8b%ef%bc%9a3%e6%94%af29%e5%9d%9716%ef%bc%8c%e5%ad%a6%e7%94%9f%e5%85%9a%e4%b8%ba%e4%bb%80%e4%b9%88%e6%ad%bb%e7%a3%95%e8%bf%99%e6%94%af.html)
 - [卡斐乐三合一数据线实测：28块4，一根顶三根，出差终于不缠三头](https://laobaixingbanshi.com/wanle/%e5%8d%a1%e6%96%90%e4%b9%90%e4%b8%89%e5%90%88%e4%b8%80%e6%95%b0%e6%8d%ae%e7%ba%bf%e5%ae%9e%e6%b5%8b%ef%bc%9a28%e5%9d%974%ef%bc%8c%e4%b8%80%e6%a0%b9%e9%a1%b6%e4%b8%89%e6%a0%b9%ef%bc%8c%e5%87%ba.html)
 - [绿之源除湿袋实测：8块5一袋，衣柜挂两周接了小半袋水](https://laobaixingbanshi.com/wanle/%e7%bb%bf%e4%b9%8b%e6%ba%90%e9%99%a4%e6%b9%bf%e8%a2%8b%e5%ae%9e%e6%b5%8b%ef%bc%9a8%e5%9d%975%e4%b8%80%e8%a2%8b%ef%bc%8c%e8%a1%a3%e6%9f%9c%e6%8c%82%e4%b8%a4%e5%91%a8%e6%8e%a5%e4%ba%86%e5%b0%8f%e5%8d%8a.html)
-https://laobaixingbanshi.com/?p=9176
-https://laobaixingbanshi.com/?p=9180
-https://laobaixingbanshi.com/?p=9184
-https://laobaixingbanshi.com/?p=9185
-https://laobaixingbanshi.com/?p=9208
-https://laobaixingbanshi.com/?p=9210
-https://laobaixingbanshi.com/?p=9212
-https://laobaixingbanshi.com/?p=9214
-https://laobaixingbanshi.com/?p=9217
-https://laobaixingbanshi.com/?p=9219
-https://laobaixingbanshi.com/?p=9221
-https://laobaixingbanshi.com/?p=9223
-https://laobaixingbanshi.com/?p=9225
-https://laobaixingbanshi.com/?p=9227
-https://laobaixingbanshi.com/?p=9230
-https://laobaixingbanshi.com/?p=9232
-https://laobaixingbanshi.com/?p=9234
-https://laobaixingbanshi.com/?p=9235
-https://laobaixingbanshi.com/?p=9237
-https://laobaixingbanshi.com/?p=9239
-https://laobaixingbanshi.com/?p=9241
-https://laobaixingbanshi.com/?p=9243
-https://laobaixingbanshi.com/?p=9245
-https://laobaixingbanshi.com/?p=9247
-https://laobaixingbanshi.com/?p=9248
-https://laobaixingbanshi.com/?p=9250
-https://laobaixingbanshi.com/?p=9252
-https://laobaixingbanshi.com/?p=9253
-https://laobaixingbanshi.com/?p=9255
-https://laobaixingbanshi.com/?p=9256
-https://laobaixingbanshi.com/?p=9258
-https://laobaixingbanshi.com/?p=9260
-https://laobaixingbanshi.com/?p=9262
-https://laobaixingbanshi.com/?p=9263
-https://laobaixingbanshi.com/?p=9264
-https://laobaixingbanshi.com/?p=9273
-https://laobaixingbanshi.com/?p=9275
-https://laobaixingbanshi.com/?p=9277
-https://laobaixingbanshi.com/?p=9279
