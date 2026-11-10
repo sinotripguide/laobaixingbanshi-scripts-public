@@ -3196,3 +3196,6 @@
 - [会计基础判断题100道：附答案，借贷方向和折旧起点最常考](https://laobaixingbanshi.com/kaozheng/%e4%bc%9a%e8%ae%a1%e5%9f%ba%e7%a1%80%e5%88%a4%e6%96%ad%e9%a2%98100%e9%81%93%ef%bc%9a%e9%99%84%e7%ad%94%e6%a1%88%ef%bc%8c%e5%80%9f%e8%b4%b7%e6%96%b9%e5%90%91%e5%92%8c%e6%8a%98%e6%97%a7%e8%b5%b7.html)
 - [个体工商户不干了怎么注销：清税、公示、缴照三步走，别把执照扔抽屉里](https://laobaixingbanshi.com/chuangye/%e4%b8%aa%e4%bd%93%e5%b7%a5%e5%95%86%e6%88%b7%e4%b8%8d%e5%b9%b2%e4%ba%86%e6%80%8e%e4%b9%88%e6%b3%a8%e9%94%80%ef%bc%9a%e6%b8%85%e7%a8%8e%e3%80%81%e5%85%ac%e7%a4%ba%e3%80%81%e7%bc%b4%e7%85%a7%e4%b8%89.html)
 - [异地看病怎么报销：跨省就医备案在手机上十分钟能办完，别等出院才想起来](https://laobaixingbanshi.com/shebao/%e5%bc%82%e5%9c%b0%e7%9c%8b%e7%97%85%e6%80%8e%e4%b9%88%e6%8a%a5%e9%94%80%ef%bc%9a%e8%b7%a8%e7%9c%81%e5%b0%b1%e5%8c%bb%e5%a4%87%e6%a1%88%e5%9c%a8%e6%89%8b%e6%9c%ba%e4%b8%8a%e5%8d%81%e5%88%86%e9%92%9f.html)
+
+## 2026-11-10 新增文章（40篇）
+
