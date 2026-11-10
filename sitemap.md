@@ -1,7 +1,7 @@
-> 更新时间：2026-11-11（新增 25 条）
+> 更新时间：2026-11-11（新增 29 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-11 02:00:00
+> 自动同步时间：2026-11-11 08:20:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
 > 共 2568239215201 个链接
 ## 网站首页
@@ -3225,3 +3225,9 @@
 - [清镇市中医医院2026年第三批面向社会公开招聘编制外专业技术人员简章](https://laobaixingbanshi.com/zhaokao/%e6%b8%85%e9%95%87%e5%b8%82%e4%b8%ad%e5%8c%bb%e5%8c%bb%e9%99%a22026%e5%b9%b4%e7%ac%ac%e4%b8%89%e6%89%b9%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e7%bc%96%e5%88%b6.html)
 - [凤冈县公安局2026年面向社会公开招聘第二批警务辅助人员公告](https://laobaixingbanshi.com/zhaokao/%e5%87%a4%e5%86%88%e5%8e%bf%e5%85%ac%e5%ae%89%e5%b1%802026%e5%b9%b4%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e7%ac%ac%e4%ba%8c%e6%89%b9%e8%ad%a6%e5%8a%a1%e8%be%85.html)
 - [普定县公安局2026年面向社会公开招聘警务辅助人员公告（11月12日至11月18日报名）](https://laobaixingbanshi.com/zhaokao/%e6%99%ae%e5%ae%9a%e5%8e%bf%e5%85%ac%e5%ae%89%e5%b1%802026%e5%b9%b4%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e8%ad%a6%e5%8a%a1%e8%be%85%e5%8a%a9%e4%ba%ba%e5%91%98.html)
+
+## 2026-11-11 补发文章（4篇：购物优惠4）
+- [陶华碧老干妈风味豆豉油制辣椒280g，9.9元值不值？我翻了10000条评价后的结论](https://laobaixingbanshi.com/wanle/laoganma-douchi-jiang-280g-9-9.html)
+- [京喜自营去皮去核红枣，16.9元一袋值不值？7000条评价里我挑出了这三类差评](https://laobaixingbanshi.com/wanle/hongzao-qupi-quhe-16-9.html)
+- [王致和大块腐乳340g，9.9元值不值？5000条评价后我给个实在结论](https://laobaixingbanshi.com/wanle/wangzhihe-fulu-340g-9-9.html)
+- [香飘飘锡兰红茶+乌龙双拼奶茶，14.9元值不值？4000条评价后的真实口感](https://laobaixingbanshi.com/wanle/xiangpiaopiao-naicha-shuangpin-14-9.html)
