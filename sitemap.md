@@ -1,7 +1,7 @@
-> 更新时间：2026-11-10（新增 40 条）
+> 更新时间：2026-11-11（新增 25 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-10 01:30:00
+> 自动同步时间：2026-11-11 02:00:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
 > 共 2568239215201 个链接
 ## 网站首页
@@ -3199,3 +3199,29 @@
 
 ## 2026-11-10 新增文章（40篇）
 
+## 2026-11-11 新增文章（25篇）
+- [收款码突然收不了钱、货款卡三天：六个小老板踩过的坑，逐条说清](https://laobaixingbanshi.com/shoukuan/%e6%94%b6%e6%ac%be%e7%a0%81%e7%aa%81%e7%84%b6%e6%94%b6%e4%b8%8d%e4%ba%86%e9%92%b1%e3%80%81%e8%b4%a7%e6%ac%be%e5%8d%a1%e4%b8%89%e5%a4%a9%ef%bc%9a%e5%85%ad%e4%b8%aa%e5%b0%8f%e8%80%81%e6%9d%bf%e8%b8%a9.html)
+- [想开个小店，执照办下来到底要跑几趟？我陪朋友跑了三趟的真实记录](https://laobaixingbanshi.com/chuangye/%e6%83%b3%e5%bc%80%e4%b8%aa%e5%b0%8f%e5%ba%97%ef%bc%8c%e6%89%a7%e7%85%a7%e5%8a%9e%e4%b8%8b%e6%9d%a5%e5%88%b0%e5%ba%95%e8%a6%81%e8%b7%91%e5%87%a0%e8%b6%9f%ef%bc%9f%e6%88%91%e9%99%aa%e6%9c%8b%e5%8f%8b.html)
+- [劳动关系协调员判断题100道：错的那二十八道，几乎都错在同一个地方](https://laobaixingbanshi.com/kaozheng/%e5%8a%b3%e5%8a%a8%e5%85%b3%e7%b3%bb%e5%8d%8f%e8%b0%83%e5%91%98%e5%88%a4%e6%96%ad%e9%a2%98100%e9%81%93%ef%bc%9a%e9%94%99%e7%9a%84%e9%82%a3%e4%ba%8c%e5%8d%81%e5%85%ab%e9%81%93%ef%bc%8c%e5%87%a0.html)
+- [竞聘演讲五分钟，我见过三种讲法：两种被刷，一种进了](https://laobaixingbanshi.com/wenku/%e7%ab%9e%e8%81%98%e6%bc%94%e8%ae%b2%e4%ba%94%e5%88%86%e9%92%9f%ef%bc%8c%e6%88%91%e8%a7%81%e8%bf%87%e4%b8%89%e7%a7%8d%e8%ae%b2%e6%b3%95%ef%bc%9a%e4%b8%a4%e7%a7%8d%e8%a2%ab%e5%88%b7%ef%bc%8c%e4%b8%80.html)
+- [请人干活不签合同，出事全是自己的：一份个人劳务合同该写哪几条](https://laobaixingbanshi.com/falv/%e8%af%b7%e4%ba%ba%e5%b9%b2%e6%b4%bb%e4%b8%8d%e7%ad%be%e5%90%88%e5%90%8c%ef%bc%8c%e5%87%ba%e4%ba%8b%e5%85%a8%e6%98%af%e8%87%aa%e5%b7%b1%e7%9a%84%ef%bc%9a%e4%b8%80%e4%bb%bd%e4%b8%aa%e4%ba%ba%e5%8a%b3.html)
+- [年终总结写不出彩？我按领导的实际关注点，把模板拆成八段](https://laobaixingbanshi.com/wenku/%e5%b9%b4%e7%bb%88%e6%80%bb%e7%bb%93%e5%86%99%e4%b8%8d%e5%87%ba%e5%bd%a9%ef%bc%9f%e6%88%91%e6%8c%89%e9%a2%86%e5%af%bc%e7%9a%84%e5%ae%9e%e9%99%85%e5%85%b3%e6%b3%a8%e7%82%b9%ef%bc%8c%e6%8a%8a%e6%a8%a1.html)
+- [V汤泉生活馆夜间门票实测：周日到周四去，比门店价省一大截](https://laobaixingbanshi.com/wanle/v%e6%b1%a4%e6%b3%89%e7%94%9f%e6%b4%bb%e9%a6%86%e5%9b%a2%e8%b4%ad%e5%88%92%e7%ae%97%e5%90%97%ef%bc%9f%e5%91%a8%e6%97%a5-%e5%91%a8%e5%9b%9b%e5%a4%9c%e9%97%b4%e9%97%a8%e7%a5%a8%ef%bc%8821314-92%e5%85%83.html)
+- [麦当劳随心配3+2五件套28.8元实测：门店单点到底贵多少](https://laobaixingbanshi.com/wanle/%e9%ba%a6%e5%bd%93%e5%8a%b3%e5%9b%a2%e8%b4%ad%e5%88%92%e7%ae%97%e5%90%97%ef%bc%9f%e9%9a%8f%e5%bf%83%e9%85%8d32%e4%ba%94%e4%bb%b6%e5%a5%9728-80%e5%85%83%e5%ae%9e%e6%b5%8b%ef%bc%8c%e6%af%94%e9%97%a8.html)
+- [怎么领蜜雪冰城的优惠券？黑糖珍珠撞奶兑换券·1张团购攻略，7.90元吃10.20元套餐](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e8%9c%9c%e9%9b%aa%e5%86%b0%e5%9f%8e%e7%9a%84%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e9%bb%91%e7%b3%96%e7%8f%8d%e7%8f%a0%e6%92%9e%e5%a5%b6%e5%85%91%e6%8d%a2%e5%88%b8%c2%b71.html)
+- [泉州三天走完海丝世遗，698元的6人团：这三处钱真不该省](https://laobaixingbanshi.com/wanle/%e6%b3%89%e5%b7%9e%e4%b8%89%e5%a4%a9%e8%b5%b0%e5%ae%8c%e6%b5%b7%e4%b8%9d%e4%b8%96%e9%81%97%ef%bc%8c698%e5%85%83%e7%9a%846%e4%ba%ba%e5%9b%a2%ef%bc%9a%e8%bf%99%e4%b8%89%e5%a4%84%e9%92%b1%e7%9c%9f.html)
+- [冬天去阿尔山，我劝你直接报私家团：1480元三天，钱花在这些地方](https://laobaixingbanshi.com/wanle/%e5%86%ac%e5%a4%a9%e5%8e%bb%e9%98%bf%e5%b0%94%e5%b1%b1%ef%bc%8c%e6%88%91%e5%8a%9d%e4%bd%a0%e7%9b%b4%e6%8e%a5%e6%8a%a5%e7%a7%81%e5%ae%b6%e5%9b%a2%ef%bc%9a1480%e5%85%83%e4%b8%89%e5%a4%a9%ef%bc%8c.html)
+- [恩施三天跑完大峡谷和屏山，1476元的团我盯了半个月才下单](https://laobaixingbanshi.com/wanle/%e6%81%a9%e6%96%bd%e4%b8%89%e5%a4%a9%e8%b7%91%e5%ae%8c%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%92%8c%e5%b1%8f%e5%b1%b1%ef%bc%8c1476%e5%85%83%e7%9a%84%e5%9b%a2%e6%88%91%e7%9b%af%e4%ba%86%e5%8d%8a%e4%b8%aa.html)
+- [399元两天跑完望仙谷和篁岭，我算了一遍这趟团到底值不值](https://laobaixingbanshi.com/wanle/399%e5%85%83%e4%b8%a4%e5%a4%a9%e8%b7%91%e5%ae%8c%e6%9c%9b%e4%bb%99%e8%b0%b7%e5%92%8c%e7%af%81%e5%b2%ad%ef%bc%8c%e6%88%91%e7%ae%97%e4%ba%86%e4%b8%80%e9%81%8d%e8%bf%99%e8%b6%9f%e5%9b%a2%e5%88%b0.html)
+- [贵州省第二人民医院2026年度高层次人才引进方案](https://laobaixingbanshi.com/zhaokao/%e8%b4%b5%e5%b7%9e%e7%9c%81%e7%ac%ac%e4%ba%8c%e4%ba%ba%e6%b0%91%e5%8c%bb%e9%99%a22026%e5%b9%b4%e5%ba%a6%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e5%bc%95%e8%bf%9b%e6%96%b9%e6%a1%88.html)
+- [南明区人民政府沙冲路街道办事处公益性岗位人员招聘简章](https://laobaixingbanshi.com/zhaokao/%e5%8d%97%e6%98%8e%e5%8c%ba%e4%ba%ba%e6%b0%91%e6%94%bf%e5%ba%9c%e6%b2%99%e5%86%b2%e8%b7%af%e8%a1%97%e9%81%93%e5%8a%9e%e4%ba%8b%e5%a4%84%e5%85%ac%e7%9b%8a%e6%80%a7%e5%b2%97%e4%bd%8d%e4%ba%ba%e5%91%98.html)
+- [南明区人民政府油榨街道办事处公益性岗位人员招聘简章](https://laobaixingbanshi.com/zhaokao/%e5%8d%97%e6%98%8e%e5%8c%ba%e4%ba%ba%e6%b0%91%e6%94%bf%e5%ba%9c%e6%b2%b9%e6%a6%a8%e8%a1%97%e9%81%93%e5%8a%9e%e4%ba%8b%e5%a4%84%e5%85%ac%e7%9b%8a%e6%80%a7%e5%b2%97%e4%bd%8d%e4%ba%ba%e5%91%98%e6%8b%9b.html)
+- [南明区司法局公益性岗位人员招聘简章](https://laobaixingbanshi.com/zhaokao/%e5%8d%97%e6%98%8e%e5%8c%ba%e5%8f%b8%e6%b3%95%e5%b1%80%e5%85%ac%e7%9b%8a%e6%80%a7%e5%b2%97%e4%bd%8d%e4%ba%ba%e5%91%98%e6%8b%9b%e8%81%98%e7%ae%80%e7%ab%a0.html)
+- [黔东南州消防救援支队关于面向社会公开招录47名政府专职消防员的公告（11月15日18时报名截止）](https://laobaixingbanshi.com/zhaokao/%e9%bb%94%e4%b8%9c%e5%8d%97%e5%b7%9e%e6%b6%88%e9%98%b2%e6%95%91%e6%8f%b4%e6%94%af%e9%98%9f%e5%85%b3%e4%ba%8e%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e5%bd%9547%e5%90%8d%e6%94%bf.html)
+- [贵州省疾病预防控制中心高层次人才引进公告（第二批）](https://laobaixingbanshi.com/zhaokao/%e8%b4%b5%e5%b7%9e%e7%9c%81%e7%96%be%e7%97%85%e9%a2%84%e9%98%b2%e6%8e%a7%e5%88%b6%e4%b8%ad%e5%bf%83%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e5%bc%95%e8%bf%9b%e5%85%ac%e5%91%8a%ef%bc%88%e7%ac%ac.html)
+- [才聚遵义·筑梦未来—遵义市事业单位2026年秋季人才引进公告（11月19日17:00时报名截止）](https://laobaixingbanshi.com/zhaokao/%e6%89%8d%e8%81%9a%e9%81%b5%e4%b9%89%c2%b7%e7%ad%91%e6%a2%a6%e6%9c%aa%e6%9d%a5-%e9%81%b5%e4%b9%89%e5%b8%82%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d2026%e5%b9%b4%e7%a7%8b%e5%ad%a3%e4%ba%ba%e6%89%8d.html)
+- [乌当区2026年社区工作者（五岗）公开选聘简章](https://laobaixingbanshi.com/zhaokao/%e4%b9%8c%e5%bd%93%e5%8c%ba2026%e5%b9%b4%e7%a4%be%e5%8c%ba%e5%b7%a5%e4%bd%9c%e8%80%85%ef%bc%88%e4%ba%94%e5%b2%97%ef%bc%89%e5%85%ac%e5%bc%80%e9%80%89%e8%81%98%e7%ae%80%e7%ab%a0.html)
+- [贞丰县2026年公开补充选聘城市社区工作者公告](https://laobaixingbanshi.com/zhaokao/%e8%b4%9e%e4%b8%b0%e5%8e%bf2026%e5%b9%b4%e5%85%ac%e5%bc%80%e8%a1%a5%e5%85%85%e9%80%89%e8%81%98%e5%9f%8e%e5%b8%82%e7%a4%be%e5%8c%ba%e5%b7%a5%e4%bd%9c%e8%80%85%e5%85%ac%e5%91%8a.html)
+- [清镇市中医医院2026年第三批面向社会公开招聘编制外专业技术人员简章](https://laobaixingbanshi.com/zhaokao/%e6%b8%85%e9%95%87%e5%b8%82%e4%b8%ad%e5%8c%bb%e5%8c%bb%e9%99%a22026%e5%b9%b4%e7%ac%ac%e4%b8%89%e6%89%b9%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e7%bc%96%e5%88%b6.html)
+- [凤冈县公安局2026年面向社会公开招聘第二批警务辅助人员公告](https://laobaixingbanshi.com/zhaokao/%e5%87%a4%e5%86%88%e5%8e%bf%e5%85%ac%e5%ae%89%e5%b1%802026%e5%b9%b4%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e7%ac%ac%e4%ba%8c%e6%89%b9%e8%ad%a6%e5%8a%a1%e8%be%85.html)
+- [普定县公安局2026年面向社会公开招聘警务辅助人员公告（11月12日至11月18日报名）](https://laobaixingbanshi.com/zhaokao/%e6%99%ae%e5%ae%9a%e5%8e%bf%e5%85%ac%e5%ae%89%e5%b1%802026%e5%b9%b4%e9%9d%a2%e5%90%91%e7%a4%be%e4%bc%9a%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e8%ad%a6%e5%8a%a1%e8%be%85%e5%8a%a9%e4%ba%ba%e5%91%98.html)
