@@ -1,12 +1,46 @@
-> 更新时间：2026-11-13（新增 38 条）
+> 更新时间：2026-11-14（新增 34 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-13 11:20:00
+> 自动同步时间：2026-11-14 11:20:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3281 个链接
+> 共 1 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2359篇）
+## 所有文章（2393篇）
+- [通州万达锦华两晚969元，比标价省229元，但这三个问题要先问](https://laobaixingbanshi.com/wanle/%e4%bd%8f%e7%83%ad%e9%97%a8%e5%9f%8e%e5%b8%82%e9%85%92%e5%ba%97%e5%93%aa%e4%b8%aa%e5%b9%b3%e5%8f%b0%e6%9c%80%e4%be%bf%e5%ae%9c%ef%bc%9f%e5%8c%97%e4%ba%ac%e9%80%9a%e5%b7%9e%e4%b8%87%e8%be%be%e9%94%a6.html)
+- [75元的北京三选一直通车：慕田峪、黄花水长城、坡峰岭到底该挑哪个](https://laobaixingbanshi.com/wanle/%e9%87%91%e7%a7%8b%e7%be%8e%e6%99%af%e5%8c%97%e4%ba%ac%e7%83%ad%e4%bc%98%e6%83%a0%e9%97%a8%e7%a5%a8%e5%93%aa%e9%87%8c%e4%b9%b0%ef%bc%9f%e7%be%8e%e5%9b%a2%e5%9b%a2%e8%b4%ad75-00%e5%85%83%ef%bc%8c-2.html)
+- [429.66元的温泉票含榴莲畅吃和海鲜自助，18小时怎么用才不亏](https://laobaixingbanshi.com/wanle/%e4%bc%91%e9%97%b2%e5%a8%b1%e4%b9%90%e5%93%aa%e9%87%8c%e6%9c%80%e5%88%92%e7%ae%97%ef%bc%9f%e4%b9%9d%e5%8f%b7%e6%b8%a9%e6%b3%89%e7%94%9f%e6%b4%bb%e9%a6%86%e3%80%90%e5%bc%80%e9%bb%91%e8%a7%82%e8%b5%9b.html)
+- [桶装水抽水器值不值53.9元：我家换掉手压泵之后的实测](https://laobaixingbanshi.com/wanle/bear-water-pump-1114.html)
+- [退租被扣300元押金，才知道墙面该这样补（附色差补救）](https://laobaixingbanshi.com/wanle/libang-wall-repair-1114.html)
+- [零下二十度打不着火：搭电宝买错比不买更麻烦](https://laobaixingbanshi.com/wanle/newsmy-jump-starter-1114.html)
+- [牙线棒150支42块，比牙线卷好在哪（出血怎么处理）](https://laobaixingbanshi.com/wanle/oralb-floss-1114.html)
+- [思南县消防救援局第二批专职消防员：11月16日起现场报名，体测三项是硬门槛](https://laobaixingbanshi.com/zhaokao/sinan-fire-1114.html)
+- [锦屏县社会福利院招养老护理：25至40岁专科可报，试用期工资按八成发](https://laobaixingbanshi.com/zhaokao/jinping-fuli-1114.html)
+- [晴隆县招9名专职人民调解员：高中学历可报，到辖区司法所报名](https://laobaixingbanshi.com/zhaokao/qinglong-tiaojie-1114.html)
+- [台江县民族中医院备案制招聘：11月23日起报名，直接面试不设笔试](https://laobaixingbanshi.com/zhaokao/taijiang-tcm-1114.html)
+- [荔波县人民医院招1名编外人员：招满即止，现场报名当天面谈](https://laobaixingbanshi.com/zhaokao/libo-hospital-1114.html)
+- [金沙县选聘农村教师示范引领岗：面向在职教师，业绩材料决定分数](https://laobaixingbanshi.com/zhaokao/jinsha-teacher-1114.html)
+- [黎平县招23名城市社区工作者：网上报名5天，大专可报、45岁放宽有条件](https://laobaixingbanshi.com/zhaokao/liping-community-1114.html)
+- [遵义事业单位人才引进补充公告：7个岗位考试科目调整，报错卷等于白准备](https://laobaixingbanshi.com/zhaokao/zunyi-supplement-1114.html)
+- [织金县应急救援大队招7人：救援6名会计1名，11月16日起现场报名](https://laobaixingbanshi.com/zhaokao/zhijin-rescue-1114.html)
+- [大方县第二批人才引进进入面试测评：硕士或副高起步，45岁为界](https://laobaixingbanshi.com/zhaokao/dafang-talent-1114.html)
+- [正安县招10名政府专职消防员：报名在人社局三楼，培训期月薪2300元](https://laobaixingbanshi.com/zhaokao/zhengan-fire-1114.html)
+- [六枝特区人民医院10名编外岗11月21日笔试：准考证18日起领，逾期算放弃](https://laobaixingbanshi.com/zhaokao/liuzhi-hospital-1114.html)
+- [呼伦贝尔一日游600元：一天跑完草原，这笔钱花在哪我给你算清](https://laobaixingbanshi.com/wanle/hlbe-1day-1114.html)
+- [恩施5天纯玩1378元：大峡谷和屏山峡谷到底差在哪，值不值得都去](https://laobaixingbanshi.com/wanle/enshi-5days-1114.html)
+- [甘南扎尕那5天1298元：2到8人小团，最大的坑不是高反](https://laobaixingbanshi.com/wanle/gannan-5days-1114.html)
+- [霞浦一日游178元：潮汐没算对，一天真的会白跑](https://laobaixingbanshi.com/wanle/xiapu-1day-1114.html)
+- [恩施大峡谷门票292元起：索道和电梯别乱买，先看这份走法](https://laobaixingbanshi.com/wanle/enshi-daxiagu-ticket-1114.html)
+- [屏山峡谷210元含单程游船：为什么下午去比上午值](https://laobaixingbanshi.com/wanle/pingshan-ticket-1114.html)
+- [368元含住宿加门票加接驳：恩施这单到底省了多少](https://laobaixingbanshi.com/wanle/enshi-hotel-pack-1114.html)
+- [婺源婺女洲1299元含双人入园：这笔钱花在哪，先算清再订](https://laobaixingbanshi.com/wanle/wuyuan-wunvzhou-1114.html)
+- [办证材料总被退回？一份清单加自查表，出门前照着划](https://laobaixingbanshi.com/wenku/banzheng-cailiao-qingdan-1114.html)
+- [农村宅基地自建房：先批后建这五步，走错一步房子可能算违建](https://laobaixingbanshi.com/wenku/nongcun-zhaijidi-5bu-1114.html)
+- [租房合同别只签一张纸：十二条条款加逐条说明，押金才退得回来](https://laobaixingbanshi.com/falv/zulin-hetong-shifan-1114.html)
+- [熟人借钱写不清，事后举证难：借款合同示范文本加风险提示](https://laobaixingbanshi.com/falv/jiekuan-hetong-shifan-1114.html)
+- [低压电工证理论100题：错得最多的是这几个数字](https://laobaixingbanshi.com/kaozheng/diangong-100ti-1114.html)
+- [养老护理员五级100题：喂饭和翻身考的其实是顺序](https://laobaixingbanshi.com/kaozheng/yanglao-huli-100ti-1114.html)
+- [个体户执照好办年报难？开办到注销的完整流程和海拉尔窗口实操](https://laobaixingbanshi.com/chuangye/geti-hukaiye-nianbao-1114.html)
 - [到店美食优惠券哪里领？肯德基【买一送一】1份新奥尔良美团团购14.00元](https://laobaixingbanshi.com/wanle/%e5%88%b0%e5%ba%97%e7%be%8e%e9%a3%9f%e4%bc%98%e6%83%a0%e5%88%b8%e5%93%aa%e9%87%8c%e9%a2%86%ef%bc%9f%e8%82%af%e5%be%b7%e5%9f%ba%e3%80%90%e4%b9%b0%e4%b8%80%e9%80%81%e4%b8%80%e3%80%911%e4%bb%bd%e6%96%b0.html)
 - [北京通州万达锦华多少钱一晚？美团团购优惠攻略，969.00元住1198.00元房](https://laobaixingbanshi.com/wanle/%e5%8c%97%e4%ba%ac%e9%80%9a%e5%b7%9e%e4%b8%87%e8%be%be%e9%94%a6%e5%8d%8e%e5%a4%9a%e5%b0%91%e9%92%b1%e4%b8%80%e6%99%9a%ef%bc%9f%e7%be%8e%e5%9b%a2%e5%9b%a2%e8%b4%ad%e4%bc%98%e6%83%a0%e6%94%bb%e7%95%a5.html)
 - [金秋美景&amp;北京热门票团购攻略，75.00元入园，比现场买省315元元](https://laobaixingbanshi.com/wanle/%e9%87%91%e7%a7%8b%e7%be%8e%e6%99%af%e5%8c%97%e4%ba%ac%e7%83%ad%e9%97%a8%e7%a5%a8%e5%9b%a2%e8%b4%ad%e6%94%bb%e7%95%a5%ef%bc%8c75-00%e5%85%83%e5%85%a5%e5%9b%ad%ef%bc%8c%e6%af%94%e7%8e%b0%e5%9c%ba-3.html)
