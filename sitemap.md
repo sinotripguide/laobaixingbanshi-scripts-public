@@ -1,12 +1,50 @@
-> 更新时间：2026-11-14（新增 27 条）
+> 更新时间：2026-11-16（新增 38 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-14 09:00:00
+> 自动同步时间：2026-11-16 00:49:18
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3308 个链接
+> 共 3346 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2386篇）
+## 所有文章（2424篇）
+- [42个岗位、聘期3年：金沙农村教师示范岗11月16日开报，先看你在不在乡镇名单](https://laobaixingbanshi.com/zhaokao/jinsha-tegang-1116.html)
+- [御包婆老包子外卖优惠力度最大的套餐是哪个？【一人食】自选2个包子+13.50元亲测最划算](https://laobaixingbanshi.com/wanle/%e5%be%a1%e5%8c%85%e5%a9%86%e8%80%81%e5%8c%85%e5%ad%90%e5%a4%96%e5%8d%96%e4%bc%98%e6%83%a0%e5%8a%9b%e5%ba%a6%e6%9c%80%e5%a4%a7%e7%9a%84%e5%a5%97%e9%a4%90%e6%98%af%e5%93%aa%e4%b8%aa%ef%bc%9f%e3%80%90.html)
+- [怎么领茶百道的优惠券？固体杨枝甘露（中杯）团购攻略，15.90元吃21.00元套餐](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e8%8c%b6%e7%99%be%e9%81%93%e7%9a%84%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e5%9b%ba%e4%bd%93%e6%9d%a8%e6%9e%9d%e7%94%98%e9%9c%b2%ef%bc%88%e4%b8%ad%e6%9d%af%ef%bc%89%e5%9b%a2.html)
+- [九号温泉生活馆团购划算吗？【开黑观赛】榴莲畅吃｜工429.66元实测，比门店便宜29.3元元](https://laobaixingbanshi.com/wanle/%e4%b9%9d%e5%8f%b7%e6%b8%a9%e6%b3%89%e7%94%9f%e6%b4%bb%e9%a6%86%e5%9b%a2%e8%b4%ad%e5%88%92%e7%ae%97%e5%90%97%ef%bc%9f%e3%80%90%e5%bc%80%e9%bb%91%e8%a7%82%e8%b5%9b%e3%80%91%e6%a6%b4%e8%8e%b2%e7%95%85.html)
+- [100元报名费、11月19日23:59关闸：贵州水务这批岗，附件岗位表先看哪三行？](https://laobaixingbanshi.com/zhaokao/guizhou-shuiwu-1116.html)
+- [普定县属国企放11个岗，报名只到11月20日17点，全程网上不设现场点](https://laobaixingbanshi.com/zhaokao/puding-gongtou-1116.html)
+- [6个岗里1个总监：贵阳城投置业面试线分70和80，差在哪一档](https://laobaixingbanshi.com/zhaokao/guiyang-chengtou-1116.html)
+- [我认识的修车师傅卡在一张高级工证上：中石化贵阳汽服店长岗，11月22日截止](https://laobaixingbanshi.com/zhaokao/sinopec-guiyang-qifu-1116.html)
+- [镇远两家县属国企一次招20人，报名为啥11月18日就关？提交审核后改不了](https://laobaixingbanshi.com/zhaokao/zhenyuan-chengyun-1116.html)
+- [万山这家国企岗今天9点才开报：5个人要走完六道关，11月24日前得缴完费](https://laobaixingbanshi.com/zhaokao/wanshan-hongxin-1116.html)
+- [报名明天23:59关闸：贵州省水利水电咨询这批岗，100元报名费换两场百分制考试](https://laobaixingbanshi.com/zhaokao/shuili-zixun-1116.html)
+- [都匀这所民办学校招老师：本科加教资是门槛，五险一金和带薪假写进了福利栏](https://laobaixingbanshi.com/zhaokao/duyun-xiangcai-1116.html)
+- [我在黄平中职见过的那间实训室：消防2人、新能源2人，专科能报，11月30日截止](https://laobaixingbanshi.com/zhaokao/huangping-zhizhong-1116.html)
+- [这家精神专科医院招人不看学历看证：4类岗包吃住，护理岗卡在35岁](https://laobaixingbanshi.com/zhaokao/luodian-lekang-1116.html)
+- [赫章公交招17名驾驶员：A1或A3、只在工作日现场收表，材料要备五样](https://laobaixingbanshi.com/zhaokao/hezhang-gongjiao-1116.html)
+- [安顺这个食堂主管岗只招1人：试用3000加1000绩效，转正要会开车会看报表](https://laobaixingbanshi.com/zhaokao/anshun-shitang-zhuguan-1116.html)
+- [航空专业教师4k起，但五险要等转正满一年：黔东南科技职校招1到2人](https://laobaixingbanshi.com/zhaokao/qiandongnan-kejiao-1116.html)
+- [白云区招2名教育教学服务人员：报到招满为止，压缩包名字写错就白投](https://laobaixingbanshi.com/zhaokao/baiyun-jiaoyu-fuwu-1116.html)
+- [合计40个实习见习岗：数据标注占了35个，2027届和失业青年走两套条件](https://laobaixingbanshi.com/zhaokao/kechuang-zhongxin-1116.html)
+- [医保手工报销总被退回？九项材料＋申请书模板，缺一张就得再跑一趟](https://laobaixingbanshi.com/wenku/yibao-baoxiao-1116.html)
+- [营业执照年报6月30日关闸：六个栏目五个坑，附情况说明模板](https://laobaixingbanshi.com/wenku/gtshang-nianbao-1116.html)
+- [雇人帮忙要不要签合同？劳务合同模板里最容易漏掉的是第三条](https://laobaixingbanshi.com/falv/laowu-hetong-1116.html)
+- [租房押金老被扣？合同里把维修时限和退押条件写死，退租就不用吵](https://laobaixingbanshi.com/falv/fangwu-zulin-1116.html)
+- [低压电工理论100题：安全电压、接地、验电这三类题最容易丢分](https://laobaixingbanshi.com/kaozheng/diangong-100ti-1116.html)
+- [保育员初级100题：晨检、消毒、急救三块占分最多，先背这四套动作](https://laobaixingbanshi.com/kaozheng/baoyuyuan-100ti-1116.html)
+- [在海拉尔开个小店：八项材料、三条经营范围规则，少跑两趟窗口](https://laobaixingbanshi.com/chuangye/gongshang-kaihu-1116.html)
+- [恩施大峡谷一日游129.99元够玩吗？索道和景交另算，一天只够走主线](https://laobaixingbanshi.com/wanle/enshi-daxiagu-1116.html)
+- [荔波小七孔78元跟团：钱省在哪、东西门怎么选、六个点按顺序走](https://laobaixingbanshi.com/wanle/libo-xiaoqikong-1116.html)
+- [婺源篁岭晒秋什么时候最出片？198元一日游含索道，动线先高后低](https://laobaixingbanshi.com/wanle/wuyuan-huangling-1116.html)
+- [甘南3天拼车798元只含车：住宿门票餐另算，人均还要再掏一千](https://laobaixingbanshi.com/wanle/zhagana-gannan-1116.html)
+- [峨眉山套票397元含四样：观光车要换三次，金顶上午到才看得见云海](https://laobaixingbanshi.com/wanle/emeishan-taopiao-1116.html)
+- [天门山C线288元少了什么？三条线差别、999级台阶和玻璃栈道怎么走](https://laobaixingbanshi.com/wanle/tianmenshan-taopiao-1116.html)
+- [婺源篁岭晒秋美宿868元含两张票索道：住景区内比山下贵多少，值不值](https://laobaixingbanshi.com/wanle/wuyuan-hotel-1116.html)
+- [恩施2天1晚558元含酒店和接驳：三个景区怎么排、接驳问清哪三点](https://laobaixingbanshi.com/wanle/enshi-2d1n-1116.html)
+- [跨省换工作，养老保险关系什么时候转？海拉尔窗口要带的三样东西](https://laobaixingbanshi.com/shebao/yanglao-zhuanyi-1116.html)
+- [开店收款别只看费率：0.2%的报价背后，结算被冻结一周损失多少](https://laobaixingbanshi.com/shoukuan/shoukuan-feilv-1116.html)
+- [气象部门招40名应届生，专业不在目录里还能报吗？12月这批的8天窗口](https://laobaixingbanshi.com/zhaokao/qixiang-zhaopin-1116.html)
+- [175人里157个是队员岗：贵阳消防这批，体能测试占了六成分](https://laobaixingbanshi.com/zhaokao/guiyang-xiaofang-1116.html)
 - [13.7元抵18.88元套餐：鱼丸米线兑换券怎么核销，到店前先看这两条](https://laobaixingbanshi.com/wanle/%e6%80%8e%e4%b9%88%e9%a2%86%e9%b1%bc%e4%b8%b8%e7%b1%b3%e7%ba%bf%e5%85%91%e6%8d%a2%e5%88%b8%c2%b7%e7%9a%84%e4%bc%98%e6%83%a0%e5%88%b8%ef%bc%9f%e9%b1%bc%e4%b8%b8%e7%b1%b3%e7%ba%bf%e5%85%91%e6%8d%a2.html)
 - [75元进景区、比窗口买省315元：北京秋季热门票怎么挑不踩坑](https://laobaixingbanshi.com/wanle/%e9%87%91%e7%a7%8b%e7%be%8e%e6%99%af%e5%8c%97%e4%ba%ac%e7%83%ad%e9%97%a8%e7%a5%a8%e5%9b%a2%e8%b4%ad%e6%94%bb%e7%95%a5%ef%bc%8c75-00%e5%85%83%e5%85%a5%e5%9b%ad%ef%bc%8c%e6%af%94%e7%8e%b0%e5%9c%ba-4.html)
 - [施秉县民族中医院招5人：报名费100元，报的人不到3倍就直接面试](https://laobaixingbanshi.com/zhaokao/shibing-tcm-1115.html)
