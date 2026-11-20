@@ -1,12 +1,13 @@
-> 更新时间：2026-11-20（新增 1 条）
+> 更新时间：2026-11-21（新增 1 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-20 00:08:27
+> 自动同步时间：2026-11-21 00:10:31
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3350 个链接
+> 共 3351 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2428篇）
+## 所有文章（2429篇）
+- [供暖两个月了还能报停吗？海拉尔这道门在 8 月底就关了](https://laobaixingbanshi.com/wenku/gongre-tingre-cailiao-1121.html)
 - [错过居民医保集中缴费期，报销要往后等三个月：这笔账先算清](https://laobaixingbanshi.com/shebao/yibao-jizhong-jiaofei-1120.html)
 - [顾客说付过了，音箱没响：先别发货，按这三步查单再谈退款](https://laobaixingbanshi.com/shoukuan/chadan-sanbu-1119.html)
 - [160元的亲子票包1大1小加海狮表演，比门市省一半，先问清孩子身高](https://laobaixingbanshi.com/wanle/taipingyang-haidi-shijie-qinzi-160.html)
