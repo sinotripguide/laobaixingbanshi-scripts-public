@@ -1,12 +1,13 @@
-> 更新时间：2026-11-21（新增 1 条）
+> 更新时间：2026-11-22（新增 1 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-21 00:10:31
+> 自动同步时间：2026-11-22 00:11:55
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3351 个链接
+> 共 3352 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2429篇）
+## 所有文章（2430篇）
+- [工地停工工资没结，先打 0470-8117196：海拉尔欠薪维权四步，顺序反了容易白跑](https://laobaixingbanshi.com/falv/gongdi-qianxin-1122.html)
 - [供暖两个月了还能报停吗？海拉尔这道门在 8 月底就关了](https://laobaixingbanshi.com/wenku/gongre-tingre-cailiao-1121.html)
 - [错过居民医保集中缴费期，报销要往后等三个月：这笔账先算清](https://laobaixingbanshi.com/shebao/yibao-jizhong-jiaofei-1120.html)
 - [顾客说付过了，音箱没响：先别发货，按这三步查单再谈退款](https://laobaixingbanshi.com/shoukuan/chadan-sanbu-1119.html)
