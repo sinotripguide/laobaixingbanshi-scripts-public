@@ -1,12 +1,13 @@
-> 更新时间：2026-11-22（新增 1 条）
+> 更新时间：2026-11-23（新增 1 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-22 00:11:55
+> 自动同步时间：2026-11-23 00:14:45
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3352 个链接
+> 共 3353 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2430篇）
+## 所有文章（2431篇）
+- [呼伦贝尔256个岗位报名到12月18日：本科38岁也能报，三类人白报](https://laobaixingbanshi.com/zhaokao/zhihui-hlbe-256-1123.html)
 - [工地停工工资没结，先打 0470-8117196：海拉尔欠薪维权四步，顺序反了容易白跑](https://laobaixingbanshi.com/falv/gongdi-qianxin-1122.html)
 - [供暖两个月了还能报停吗？海拉尔这道门在 8 月底就关了](https://laobaixingbanshi.com/wenku/gongre-tingre-cailiao-1121.html)
 - [错过居民医保集中缴费期，报销要往后等三个月：这笔账先算清](https://laobaixingbanshi.com/shebao/yibao-jizhong-jiaofei-1120.html)
