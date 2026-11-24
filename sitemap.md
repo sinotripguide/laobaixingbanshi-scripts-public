@@ -1,12 +1,13 @@
-> 更新时间：2026-11-24（新增 1 条）
+> 更新时间：2026-11-25（新增 1 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-24 00:15:50
+> 自动同步时间：2026-11-25 00:13:08
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3354 个链接
+> 共 3355 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2432篇）
+## 所有文章（2433篇）
+- [崇礼开板了，818元在太子城住两晚不含雪票，这单该不该抢](https://laobaixingbanshi.com/wanle/chongli-even-818-1125.html)
 - [达古冰川296元的套票只省14元，11月26日索道还要停一天](https://laobaixingbanshi.com/wanle/dagu-glacier-296-1124.html)
 - [呼伦贝尔256个岗位报名到12月18日：本科38岁也能报，三类人白报](https://laobaixingbanshi.com/zhaokao/zhihui-hlbe-256-1123.html)
 - [工地停工工资没结，先打 0470-8117196：海拉尔欠薪维权四步，顺序反了容易白跑](https://laobaixingbanshi.com/falv/gongdi-qianxin-1122.html)
