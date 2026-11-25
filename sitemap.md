@@ -1,12 +1,15 @@
-> 更新时间：2026-11-25（新增 1 条）
+> 更新时间：2026-11-26（新增 3 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-25 00:13:08
+> 自动同步时间：2026-11-26 00:15:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3355 个链接
+> 共 3358 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2433篇）
+## 所有文章（2436篇）
+- [高处作业证到期没复审等于白考：6年有效期里，第3年这道手续别拖](https://laobaixingbanshi.com/kaozheng/gaochu-fushen-1126.html)
+- [门市租下来了执照却办不下来：卡在“场地证明”，合同、房本、住改商三份材料怎么凑](https://laobaixingbanshi.com/chuangye/changdi-zhengming-1126.html)
+- [限额卡在“单日”这一栏：收款码提额要补的三样材料，少一样都白跑](https://laobaixingbanshi.com/shoukuan/shoukuan-xiiane-1126.html)
 - [崇礼开板了，818元在太子城住两晚不含雪票，这单该不该抢](https://laobaixingbanshi.com/wanle/chongli-even-818-1125.html)
 - [达古冰川296元的套票只省14元，11月26日索道还要停一天](https://laobaixingbanshi.com/wanle/dagu-glacier-296-1124.html)
 - [呼伦贝尔256个岗位报名到12月18日：本科38岁也能报，三类人白报](https://laobaixingbanshi.com/zhaokao/zhihui-hlbe-256-1123.html)
@@ -3382,3 +3385,8 @@
 - [京喜自营去皮去核红枣，16.9元一袋值不值？7000条评价里我挑出了这三类差评](https://laobaixingbanshi.com/wanle/hongzao-qupi-quhe-16-9.html)
 - [王致和大块腐乳340g，9.9元值不值？5000条评价后我给个实在结论](https://laobaixingbanshi.com/wanle/wangzhihe-fulu-340g-9-9.html)
 - [香飘飘锡兰红茶+乌龙双拼奶茶，14.9元值不值？4000条评价后的真实口感](https://laobaixingbanshi.com/wanle/xiangpiaopiao-naicha-shuangpin-14-9.html)
+
+## 2026-11-26（3篇：职业考证1 / 创业办事1 / 商户收款1）
+- [高处作业证到期没复审等于白考：6年有效期里，第3年这道手续别拖](https://laobaixingbanshi.com/kaozheng/gaochu-fushen-1126.html)
+- [门市租下来了执照却办不下来：卡在“场地证明”，合同、房本、住改商三份材料怎么凑](https://laobaixingbanshi.com/chuangye/changdi-zhengming-1126.html)
+- [限额卡在“单日”这一栏：收款码提额要补的三样材料，少一样都白跑](https://laobaixingbanshi.com/shoukuan/shoukuan-xiiane-1126.html)
