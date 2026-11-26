@@ -1,12 +1,15 @@
-> 更新时间：2026-11-26（新增 3 条）
+> 更新时间：2026-11-27（新增 3 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-26 00:15:00
+> 自动同步时间：2026-11-27 00:30:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3358 个链接
+> 共 3361 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2436篇）
+## 所有文章（2439篇）
+- [65个事业编、12月1日开报：内蒙古气象这批，2025和2026届没交社保的也能报](https://laobaixingbanshi.com/zhaokao/neimenggu-qixiang-2027-zhaopin-65ren-1201.html)
+- [699元跑弥勒四个点，我把最赶的那一段拆开算了一遍](https://laobaixingbanshi.com/wanle/mile-2tian-699-yuan-feizhu-gentuan-1127.html)
+- [门诊慢性病认定，为什么材料交上去又被退回？海拉尔两个窗口的细节](https://laobaixingbanshi.com/shebao/menzhen-manxingbing-rending-hailaer-chuangkou-1127.html)
 - [高处作业证到期没复审等于白考：6年有效期里，第3年这道手续别拖](https://laobaixingbanshi.com/kaozheng/gaochu-fushen-1126.html)
 - [门市租下来了执照却办不下来：卡在“场地证明”，合同、房本、住改商三份材料怎么凑](https://laobaixingbanshi.com/chuangye/changdi-zhengming-1126.html)
 - [限额卡在“单日”这一栏：收款码提额要补的三样材料，少一样都白跑](https://laobaixingbanshi.com/shoukuan/shoukuan-xiiane-1126.html)
@@ -3390,3 +3393,8 @@
 - [高处作业证到期没复审等于白考：6年有效期里，第3年这道手续别拖](https://laobaixingbanshi.com/kaozheng/gaochu-fushen-1126.html)
 - [门市租下来了执照却办不下来：卡在“场地证明”，合同、房本、住改商三份材料怎么凑](https://laobaixingbanshi.com/chuangye/changdi-zhengming-1126.html)
 - [限额卡在“单日”这一栏：收款码提额要补的三样材料，少一样都白跑](https://laobaixingbanshi.com/shoukuan/shoukuan-xiiane-1126.html)
+
+## 2026-11-27（3篇：招考就业1 / 旅游酒店1 / 社保医保1）
+- [65个事业编、12月1日开报：内蒙古气象这批，2025和2026届没交社保的也能报](https://laobaixingbanshi.com/zhaokao/neimenggu-qixiang-2027-zhaopin-65ren-1201.html)
+- [699元跑弥勒四个点，我把最赶的那一段拆开算了一遍](https://laobaixingbanshi.com/wanle/mile-2tian-699-yuan-feizhu-gentuan-1127.html)
+- [门诊慢性病认定，为什么材料交上去又被退回？海拉尔两个窗口的细节](https://laobaixingbanshi.com/shebao/menzhen-manxingbing-rending-hailaer-chuangkou-1127.html)
