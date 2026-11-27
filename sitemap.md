@@ -1,12 +1,15 @@
-> 更新时间：2026-11-27（新增 3 条）
+> 更新时间：2026-11-28（新增 3 条）
 
 # 老百姓办事指南 - 网站链接地图
-> 自动同步时间：2026-11-27 00:30:00
+> 自动同步时间：2026-11-28 00:30:00
 > 网站地址：[https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-> 共 3361 个链接
+> 共 3364 个链接
 ## 网站首页
 - [https://laobaixingbanshi.com](https://laobaixingbanshi.com)
-## 所有文章（2439篇）
+## 所有文章（2442篇）
+- [海拉尔零下20℃晾不干衣服，我把艾美特 HG12-K5 衣柜烘干机搬回家](https://laobaixingbanshi.com/wanle/hailaer-hongganji-airmate-hg12k5-1128.html)
+- [31.9元喝到星巴克大杯太妃榛果拿铁：冬季限定，海拉尔到店核销记](https://laobaixingbanshi.com/wanle/xingbake-taifei-zhengguo-natie-hailaer-1128.html)
+- [交完取暖费能提公积金了：呼伦贝尔5类住房消费提取，海拉尔窗口问清的全流程](https://laobaixingbanshi.com/wenku/hulunbeier-gongjijin-zhufang-xiaofei-tiqu-1128.html)
 - [65个事业编、12月1日开报：内蒙古气象这批，2025和2026届没交社保的也能报](https://laobaixingbanshi.com/zhaokao/neimenggu-qixiang-2027-zhaopin-65ren-1201.html)
 - [699元跑弥勒四个点，我把最赶的那一段拆开算了一遍](https://laobaixingbanshi.com/wanle/mile-2tian-699-yuan-feizhu-gentuan-1127.html)
 - [门诊慢性病认定，为什么材料交上去又被退回？海拉尔两个窗口的细节](https://laobaixingbanshi.com/shebao/menzhen-manxingbing-rending-hailaer-chuangkou-1127.html)
@@ -3398,3 +3401,9 @@
 - [65个事业编、12月1日开报：内蒙古气象这批，2025和2026届没交社保的也能报](https://laobaixingbanshi.com/zhaokao/neimenggu-qixiang-2027-zhaopin-65ren-1201.html)
 - [699元跑弥勒四个点，我把最赶的那一段拆开算了一遍](https://laobaixingbanshi.com/wanle/mile-2tian-699-yuan-feizhu-gentuan-1127.html)
 - [门诊慢性病认定，为什么材料交上去又被退回？海拉尔两个窗口的细节](https://laobaixingbanshi.com/shebao/menzhen-manxingbing-rending-hailaer-chuangkou-1127.html)
+
+
+## 2026-11-28（3篇：购物优惠1 / 本地生活·美团1 / 知识文库1）
+- [海拉尔零下20℃晾不干衣服，我把艾美特 HG12-K5 衣柜烘干机搬回家](https://laobaixingbanshi.com/wanle/hailaer-hongganji-airmate-hg12k5-1128.html)
+- [31.9元喝到星巴克大杯太妃榛果拿铁：冬季限定，海拉尔到店核销记](https://laobaixingbanshi.com/wanle/xingbake-taifei-zhengguo-natie-hailaer-1128.html)
+- [交完取暖费能提公积金了：呼伦贝尔5类住房消费提取，海拉尔窗口问清的全流程](https://laobaixingbanshi.com/wenku/hulunbeier-gongjijin-zhufang-xiaofei-tiqu-1128.html)
